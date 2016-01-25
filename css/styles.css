@@ -1,3 +1,7 @@
 #landmarkForms input {
   margin-bottom: 15px;
 }
+
+#show-placeInfo {
+  display: none;
+}
