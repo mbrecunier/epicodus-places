@@ -1,6 +1,6 @@
 # Places I've Been
 
-#### Add contacts to address book, 1/25/2016
+#### Display information about places visited, 1/25/2016
 
 #### By Cassy Culkins Michelle Brecunier
 
